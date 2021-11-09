@@ -1,5 +1,7 @@
 include<stdio.h>
 int main ()
 {
-    printf (" hello cac ban, toi la trang  ");
+    int a;
+     printf (" hello cac ban, toi la trang  ");
+    scantf ("%d",a);
 }

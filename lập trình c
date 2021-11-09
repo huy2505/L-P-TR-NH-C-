@@ -31,4 +31,5 @@ printf("Sum of the series : ");
     int a;
      printf (" hello cac ban, toi la trang  ");
     scantf ("%d",a);
+    printf("hello cac ban , toi la phuc  ");
 }

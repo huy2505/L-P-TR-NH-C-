@@ -28,8 +28,4 @@ printf("Sum of the series : ");
     }*/
   getch();
     return 0;
-    int a;
-     printf (" hello cac ban, toi la trang  ");
-    scantf ("%d",a);
-    printf("hello cac ban , toi la phuc  ");
-}
+    }
